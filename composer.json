@@ -1,0 +1,13 @@
+{
+    "name": "xindefeixiang/packagetest",
+    "description": "from feixiang",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "feixiang",
+            "email": "wfx0528@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
