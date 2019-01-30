@@ -1,0 +1,13 @@
+{
+    "name": "test/wfx",
+    "description": "from wfx",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "feixiang",
+            "email": "wfx0528@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
