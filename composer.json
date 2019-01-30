@@ -8,6 +8,11 @@
             "email": "wfx0528@163.com"
         }
     ],
+	"autoload": {
+    "psr-4": {
+        "Test\\wfx\\": "src/"
+    }
+},
     "minimum-stability": "dev",
     "require": {}
 }
